@@ -1,4 +1,4 @@
-## Hi! I'm Edward
+# Hi! I'm Edward
 I'm a passion-driven developer looking to get my grubby hands on whatever projects I can. Current vision: full-stack TypeScript developer.
 
 ### My projects
