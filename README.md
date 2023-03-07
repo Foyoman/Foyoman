@@ -2,7 +2,7 @@
 I'm a passion-driven developer looking to get my grubby hands on whatever projects I can. Current vision: full-stack TypeScript developer.
 
 ### My projects
-- **Ed's Design System (EDS)** - [demo]() | [repo](): My very own UI component library design system built using Next.js, Storybook, and TypeScript! Crafted to showcase and have fun with isolated components, and to have a component library I can easily import as an npm package to use in future projects.
+- **Ed's Design System (EDS)** - [demo]() | [repo](): My very own UI component library design system built using Next.js, Storybook, and TypeScript! Crafted to showcase and have fun with building isolated components, and to have a component library I can easily import as an npm package to use in future projects.
 - **tonguist** - [demo]() | [repo](): A language learning flashcards web app built with React, Node, Express, and MongoDB (MERN). I absolutely love practicing my spanish so I built a lovely little clone of my favourite web app, Lingvist. 
 - **brain train** - [demo]() | [repo](): Like an online gym for your brain. Brain Train was made about a week after being introduced to React and I wanted to test the limits of it's reactiveness by making Human Benchmark like games straight out of DOM elements and state management. Scores logged with Firebase.
 - **ana** - [demo]() | [repo](): An emotionally vulnerable and heartfelt forum board I made with Ruby on Rails. Originally made to act as an anonymous "confessions" board where users would open up about personal anecdotes, this project evolved into a general forum board with all the bells and whistles - comments, themes, likes, tags, post sorting, a following page - you name it.
