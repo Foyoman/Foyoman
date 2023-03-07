@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi! I'm Edward
+I'm a passion-driven developer looking to get my grubby hands on whatever projects I can. Current vision: full-stack TypeScript developer.
+
+### My projects
+- **Ed's Design System (EDS)** - [demo]() | [repo](): My very own UI component library design system built using Next.js, Storybook, and TypeScript! Crafted to showcase and have fun with isolated components, and to have a component library I can easily import as an npm package to use in future projects.
+- **tonguist** - [demo]() | [repo](): A language learning flashcards web app built with React, Node, Express, and MongoDB (MERN). I absolutely love practicing my spanish so I built a lovely little clone of my favourite web app, Lingvist. 
+- **brain train** - [demo]() | [repo](): Like an online gym for your brain. Brain Train was made about a week after being introduced to React and I wanted to test the limits of it's reactiveness by making Human Benchmark like games straight out of DOM elements and state management. Scores logged with Firebase.
+- **ana** - [demo]() | [repo](): An emotionally vulnerable and heartfelt forum board I made with Ruby on Rails. Originally made to act as an anonymous "confessions" board where users would open up about personal anecdotes, this project evolved into a general forum board with all the bells and whistles - comments, themes, likes, tags, post sorting, a following page - you name it.
+- **Tic Tac Toe** - [demo]() | [repo](): Tic Tac's, like the brand of those little mints, and toe, like your big toe. But also like the game. First project a week after picking up my first programming language, JavaScript. Play between two players or with an ""unbeatable"" ""AI"". Really took tic tac toe to the limits with this one. Check out the code for the """"AI"""". I dare you. Puts ChatGPT to shame, I'd say.
 
 <!--
 **Foyoman/Foyoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
