@@ -2,7 +2,7 @@
 I'm a passion-driven developer looking to get my grubby hands on whatever projects I can. Current vision: full-stack TypeScript developer.
 
 ### My projects
-- 🧞 **wizzy wig** - [demo]() | [repo](): A WYSIWYG Markdown note-taking web app made with Next.js, MongoDB, GraphQL, Redux, and TypeScript.
+- 🧞 **wizzy wig** - [demo]() | [repo](): A WYSIWYG Markdown note-taking web app in development with Next.js and TypeScript.
 - 👨‍🎨 **Ed's Design System (EDS)** - [demo]() | [repo](): My very own UI component library built using Next.js, Storybook, and TypeScript!
 - 👅 **tonguist** - [demo]() | [repo](): A language learning flashcards web app built MERN. A lovely little clone of Lingvist.
 - 🧠 **brain train** - [demo]() | [repo](): React web games made straight out of DOM elements and state management.
