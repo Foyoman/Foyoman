@@ -3,7 +3,6 @@ I'm a passion-driven developer looking to get my grubby hands on whatever projec
 
 ### My projects
 - 🧞 **wizzy wig** - [demo](https://wizzy-wig.netlify.app/) | [repo](https://github.com/Foyoman/wizzy-wig-client): A WYSIWYG Markdown note-taking web app in development using a TypeScript MERN stack.
-- 👨‍🎨 **Ed's Design System (EDS)** - [repo](https://github.com/Foyoman/eds-design-system): My very own UI component library built using Next.js, Storybook, and TypeScript!
 - 👅 **tonguist** - [demo](https://tonguist.netlify.app/) | [repo](https://github.com/Foyoman/tonguist-client): A language learning flashcards web app built with the MERN stack. A lovely little clone of Lingvist.
 - 🧠 **brain train** - [demo](https://github.com/Foyoman/brain-train) | [repo](https://the-brain-train.web.app/): React web games made straight out of DOM elements and state management.
 - 💬 **ana** - [demo](https://github.com/Foyoman/ana) | [repo](https://ana-anecdotal.herokuapp.com/): An anonymous "confessions" forum board made with Ruby on Rails. All bells and whistles included.
