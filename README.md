@@ -3,7 +3,7 @@ I'm a passion-driven developer looking to get my grubby hands on whatever projec
 
 ### My projects
 - ✈️ **air-fids** - [demo](https://air-fids.vercel.app) | [repo](https://github.com/Foyoman/air-fids): An online Flight Information Display System (FIDS) with plenty of intuitive functionality.
-- 🧞 **wizzy-wig** - [demo](https://wizzy-wig.netlify.app) | [repo](https://github.com/Foyoman/wizzy-wig-client): A WYSIWYG Markdown note-taking web app in development using a React and Django.
+- 🧞 **wizzy-wig** - [demo](https://wizzy-wig.netlify.app) | [repo](https://github.com/Foyoman/wizzy-wig-client): A WYSIWYG Markdown note-taking web app in development using React and Django.
 - 👅 **tonguist** - [demo](https://tonguist.netlify.app) | [repo](https://github.com/Foyoman/tonguist-client): A language learning flashcards web app built with the MERN stack. A lovely little clone of Lingvist.
 - 🧠 **brain train** - [demo](https://the-brain-train.web.app) | [repo](https://github.com/Foyoman/brain-train): React web games made straight out of DOM elements and state management.
 - 💬 **ana** - [demo](https://ana-anecdotal.herokuapp.com) | [repo](https://github.com/Foyoman/ana): An anonymous "confessions" forum board made with Ruby on Rails. All bells and whistles included.
