@@ -1,5 +1,5 @@
 # Hi! I'm Edward
-I'm a passion-driven developer looking to get my grubby hands on whatever projects I can.
+I'm a smol developer looking to get my grubby hands on whatever projects I can.
 
 ### My projects
 - ✈️ **air-fids** - [demo](https://air-fids.vercel.app) | [repo](https://github.com/Foyoman/air-fids): An online Flight Information Display System (FIDS) with plenty of intuitive functionality.
